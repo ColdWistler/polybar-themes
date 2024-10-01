@@ -16,7 +16,7 @@
   <a href="https://github.com/adi1090x/polybar-themes#shades" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/shades-cyan?style=for-the-badge"></a>
   <a href="https://github.com/adi1090x/polybar-themes#hack" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/hack-cyan?style=for-the-badge"></a> 
   <a href="https://github.com/adi1090x/polybar-themes#docky" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/docky-cyan?style=for-the-badge"></a> 
-  <a href="https://github.com/adi1090x/polybar-themes#cuts" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/cuts-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes#cuts" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/cuts-cyan?style=for-the-badge"></a> 
   <a href="https://github.com/adi1090x/polybar-themes#shapes" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/shapes-cyan?style=for-the-badge"></a>
   <a href="https://github.com/adi1090x/polybar-themes#grayblocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/grayblocks-cyan?style=for-the-badge"></a>
   <a href="https://github.com/adi1090x/polybar-themes#blocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/blocks-cyan?style=for-the-badge"></a>

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/license/adi1090x/polybar-themes?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/adi1090x/polybar-themes?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/adi1090x/polybar-themes?color=violet&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/polybar-themes?color=teal&style=for-the-badge">   
+  <img src="https://img.shields.io/github/forks/adi1090x/polybar-themes?color=teal&style=for-the-badge">   s
 </p> 
 
 <p align="center">

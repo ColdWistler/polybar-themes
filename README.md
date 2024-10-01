@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/stars/adi1090x/polybar-themes?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/adi1090x/polybar-themes?color=violet&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/adi1090x/polybar-themes?color=teal&style=for-the-badge">   
-</p>
+</p> 
 
 <p align="center">
   <a href="https://github.com/adi1090x/polybar-themes#material" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/material-cyan?style=for-the-badge"></a>

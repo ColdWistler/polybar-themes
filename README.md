@@ -1096,7 +1096,7 @@ bash ~/.config/polybar/launch.sh --material
 ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/colorblocks/bar_dark.png)
 
 **`Light`**
-![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/colorblocks/bar_light.png)
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/colorblocks/bar_light.png) 
 
 </details>
 
